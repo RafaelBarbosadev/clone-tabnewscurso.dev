@@ -1,0 +1,15 @@
+{
+  "name": "clone-tabnewscurso.dev",
+  "version": "1.0.0",
+  "description": "meus primeiros passos na programação estudando pelo curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0"
+  }
+}
